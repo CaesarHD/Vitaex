@@ -1,37 +1,3 @@
----
-
-layout: default
-title: "Vitaex Game Concept"
-
----
-
-<style>
-  body, .container-lg, .markdown-body { 
-    background-color: #0d1117 !important; 
-    color: #c9d1d9 !important; 
-  }
-  h1, h2, h3, h4, h5, h6 { 
-    color: #ffffff !important; 
-  }
-  a { 
-    color: #58a6ff !important; 
-  }
-  /* Fix for the Table */
-  table th, table td {
-    background-color: #0d1117 !important;
-    color: #c9d1d9 !important;
-    border-color: #30363d !important;
-  }
-  table tr:nth-child(2n) {
-    background-color: #161b22 !important;
-  }
-  /* Fix for the Code Block */
-  pre, code {
-    background-color: #161b22 !important;
-    color: #c9d1d9 !important;
-  }
-</style>
-
 # Vitaex Game Concept
 
 <img width="1118" height="242" alt="image" src="https://github.com/user-attachments/assets/d4c62b1b-818a-4595-91f6-751a08315a48" />
