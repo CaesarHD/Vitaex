@@ -38,7 +38,9 @@ The protagonist's goal: reach a **robot factory** where a new **mechanized suit*
 - **Ability:** Place a mine (20s cooldown) that explodes on contact
 - **Animations:** 17 states -- idle, walk, pre-jump, jump, landing, each with armed/unarmed and shooting variants
 
-<img width="3819" height="57" alt="spritesheet" src="https://github.com/user-attachments/assets/9a4c0998-22f0-4e88-a0ac-cde3fcbf7e59" />
+
+[![Spritesheet Preview](https://github.com/user-attachments/assets/df0e65d3-e7e2-49a3-a871-98b6322a91d5)](https://github.com/user-attachments/assets/df0e65d3-e7e2-49a3-a871-98b6322a91d5)
+*(Click the image to view the full-size 3819x57 spritesheet!)*
 
 
 ### Enemies & Hazards
@@ -66,7 +68,7 @@ Hazards (Level 2)
 
 ### Visual Style
 
-<img width="3414" height="320" alt="spritesheet (3)" src="https://github.com/user-attachments/assets/60fd7ed1-b7e4-4199-9b8d-a1c13058945f" />
+![Character Spritesheet](https://github.com/user-attachments/assets/60fd7ed1-b7e4-4199-9b8d-a1c13058945f)
 
 - **Pixel art**, frame-by-frame animation via spritesheets
 - **Parallax scrolling** -- multi-layer backgrounds at different speeds
