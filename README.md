@@ -38,9 +38,9 @@ The protagonist's goal: reach a **robot factory** where a new **mechanized suit*
 - **Ability:** Place a mine (20s cooldown) that explodes on contact
 - **Animations:** 17 states -- idle, walk, pre-jump, jump, landing, each with armed/unarmed and shooting variants
 
-
-<img width="3819" height="57" alt="spritesheet" src="https://github.com/user-attachments/assets/df0e65d3-e7e2-49a3-a871-98b6322a91d5" />
-
+<div style="overflow-x: auto; padding-bottom: 15px;">
+  <img alt="spritesheet" src="https://github.com/user-attachments/assets/df0e65d3-e7e2-49a3-a871-98b6322a91d5" style="max-width: none; height: 57px; image-rendering: pixelated;" />
+</div>
 
 ### Enemies & Hazards
 
