@@ -1,8 +1,7 @@
 
 # Vitaex Game Concept
 
-![image](https://github.com/user-attachments/assets/d4c62b1b-818a-4595-91f6-751a08315a48)
-
+<img src="https://github.com/user-attachments/assets/d4c62b1b-818a-4595-91f6-751a08315a48" alt="image" style="max-width: 100%; height: auto;" />
 
 > [!info]
 > **Vitaex** is a portmanteau of Latin *vitam* (life) + *explorare* (to explore) -- "to explore life." A 2D side-scrolling pixel-art sci-fi game built with Python + Pygame. Hand-drawn frame-by-frame pixel art in Paint.net.
