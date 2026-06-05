@@ -1,9 +1,8 @@
 
 # Vitaex Game Concept
 
-<img width="1118" height="242" alt="image" src="https://github.com/user-attachments/assets/d4c62b1b-818a-4595-91f6-751a08315a48" />
+![image](https://github.com/user-attachments/assets/d4c62b1b-818a-4595-91f6-751a08315a48)
 
----
 
 > [!info]
 > **Vitaex** is a portmanteau of Latin *vitam* (life) + *explorare* (to explore) -- "to explore life." A 2D side-scrolling pixel-art sci-fi game built with Python + Pygame. Hand-drawn frame-by-frame pixel art in Paint.net.
@@ -95,10 +94,10 @@ Hazards (Level 2)
 
 ### Level 1
 
-<img width="800" height="439" alt="gameplay" src="https://github.com/user-attachments/assets/f75d8736-cb7d-4e46-bb3c-0feb714ce1ef" />
+![gameplay](https://github.com/user-attachments/assets/f75d8736-cb7d-4e46-bb3c-0feb714ce1ef)
 
 ### Level 2
-<img width="800" height="439" alt="gameplay3" src="https://github.com/user-attachments/assets/74d17cfe-72dd-4161-9db8-8c23b9f79bcb" />
 
+![gameplay3](https://github.com/user-attachments/assets/74d17cfe-72dd-4161-9db8-8c23b9f79bcb)
 
 
