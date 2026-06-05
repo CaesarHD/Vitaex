@@ -1,8 +1,3 @@
-# Vitaex Game Concept
-
-<img width="1118" height="242" alt="image" src="https://github.com/user-attachments/assets/d4c62b1b-818a-4595-91f6-751a08315a48" />
-
----
 
 # Vitaex Game Concept
 
